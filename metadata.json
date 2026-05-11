@@ -1,0 +1,6 @@
+{
+  "name": "Passport Data Extractor",
+  "description": "Extracts patient information from passport photos to easily fill out medical registration forms like nhlcrm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

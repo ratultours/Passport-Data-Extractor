@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #DC143C;
+  --color-brand-light: rgba(220, 20, 60, 0.1);
+  --color-brand-muted: rgba(220, 20, 60, 0.3);
+}
